@@ -1,0 +1,19 @@
+{
+  "name": "botnerinewversiontype",
+  "version": "1.0.0",
+  "description": "Bot Neri com TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigogregorioneri/botneriTypeScript.git"
+  },
+  "author": "Rodrigo Neri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigogregorioneri/botneriTypeScript/issues"
+  },
+  "homepage": "https://github.com/rodrigogregorioneri/botneriTypeScript#readme"
+}
